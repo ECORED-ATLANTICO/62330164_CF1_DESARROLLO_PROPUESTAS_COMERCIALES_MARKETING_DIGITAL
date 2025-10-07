@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Negociación de propuestas comerciales.',
+    Description:
+      'Este componente desarrolla competencias orientadas a la estructuración, presentación y seguimiento de propuestas comerciales en entornos digitales. A través del estudio de la comunicación comercial, los modelos de negociación, las técnicas persuasivas, los protocolos de seguimiento y los programas de fidelización, el aprendiz adquiere herramientas para influir éticamente en la toma de decisiones del cliente y construir relaciones sostenibles.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,13 +36,28 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Comunicación comercial',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Concepto',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Elementos',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Interferencias',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Herramientas digitales',
+            hash: 't_1_4',
           },
         ],
       },
@@ -45,14 +65,91 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Negociación estratégica',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Concepto',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Modelos',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Técnicas de anclaje y persuasión',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Desarrollo de <i>scripts</i>',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Seguimiento',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Técnicas de seguimiento',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Herramientas de seguimiento',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Protocolos',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Informes',
+            hash: 't_3_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Programas de fidelización',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Concepto',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Objetivo',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Beneficios',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Tipos',
+            hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Estrategias',
+            hash: 't_4_5',
+          },
+        ],
       },
     ],
     subMenu: [
