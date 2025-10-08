@@ -199,16 +199,112 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Técnicas de seguimiento comercial',
+      referencia:
+        'Vidal, E. (2023). <i>Técnicas de seguimiento comercial: métricas, plantillas y ejemplos</i>. Ventas de Alto Octanaje.',
+      tipo: 'Artículo web',
+      link:
+        'https://www.ventasdealtooctanaje.com/blog/tecnicas-de-seguimiento-comercial-metricas-plantillas-y-ejemplos-de-aplicacion-para-gerentes-y-vendedores',
+    },
+    {
+      tema: 'Estrategias de seguimiento proactivo',
+      referencia:
+        'Nomadia Group. (2023). <i>Seguimiento comercial en 2023: ¡la guía completa!</i> Nomadia.',
+      tipo: 'Artículo web',
+      link:
+        'nomadia-group.com/es/recursos/blog/seguimiento-comercial-en-2023-la-guia-completa/',
+    },
+    {
+      tema: 'Comunicación comercial efectiva',
+      referencia:
+        'Maddio, G. (s.f.). <i>Técnicas de ventas y comunicación comercial</i>. Universidad Nacional de Cuyo.',
+      tipo: 'Capítulo de libro',
+      link:
+        'https://fce.uncuyo.edu.ar/upload/se-adm-n66-tecnicas-de-ventas-y-comunicacion-comercial-gustavo-maddio.pdf',
+    },
+    {
+      tema: 'Herramientas digitales para seguimiento',
+      referencia:
+        'LaGrowthMachine. (2023). <i>Impulse sus ventas con estas estrategias de seguimiento comercial</i>. LaGrowthMachine.',
+      tipo: 'Artículo web',
+      link: 'https://lagrowthmachine.com/es/seguimiento-comercial/',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Anclaje',
+      significado:
+        'Técnica persuasiva que consiste en presentar una cifra inicial que influye en la percepción del cliente sobre ofertas posteriores.',
+    },
+    {
+      termino: 'Autoridad',
+      significado:
+        'Principio persuasivo que utiliza testimonios, certificaciones o expertos para generar credibilidad en una propuesta comercial.',
+    },
+    {
+      termino: 'Canal de comunicación',
+      significado:
+        'Medio a través del cual se transmite el mensaje comercial, como correo electrónico, redes sociales o presentaciones digitales.',
+    },
+    {
+      termino: 'Cliente',
+      significado:
+        'Receptor de la propuesta comercial, cuya necesidad o interés motiva el diseño de la oferta.',
+    },
+    {
+      termino: 'Comunicación comercial',
+      significado:
+        'Proceso estratégico mediante el cual una empresa transmite valor a sus clientes a través de mensajes claros y persuasivos.',
+    },
+    {
+      termino: 'CRM',
+      significado:
+        'Siglas de <i>Customer Relationship Management</i>, herramienta digital que permite gestionar relaciones con clientes y automatizar el seguimiento comercial.',
+    },
+    {
+      termino: 'Escasez',
+      significado:
+        'Técnica persuasiva que genera urgencia al limitar la disponibilidad de un producto o servicio.',
+    },
+    {
+      termino: 'Fidelización',
+      significado:
+        'Estrategia comercial orientada a mantener y fortalecer la relación con clientes a largo plazo.',
+    },
+    {
+      termino: 'Frecuencia de contacto',
+      significado:
+        'Número y ritmo de interacciones con el cliente durante el proceso de seguimiento comercial.',
+    },
+    {
+      termino: 'Informe comercial',
+      significado:
+        'Documento que recopila datos sobre el seguimiento de propuestas, incluyendo indicadores como respuestas, reuniones y cierres.',
+    },
+    {
+      termino: 'Modelo colaborativo',
+      significado:
+        'Enfoque de negociación que busca construir relaciones duraderas basadas en confianza y cooperación.',
+    },
+    {
+      termino: 'Modelo distributivo',
+      significado:
+        'Enfoque de negociación competitivo donde cada parte busca maximizar su beneficio individual.',
+    },
+    {
+      termino: 'Persuasión',
+      significado:
+        'Capacidad de influir en las decisiones del cliente mediante argumentos, emociones o técnicas estratégicas.',
+    },
+    {
+      termino: 'Propuesta comercial',
+      significado:
+        'Documento estructurado que presenta una oferta de productos o servicios, destacando beneficios, condiciones y llamado a la acción.',
+    },
+    {
+      termino: '<i>Script</i> comercial',
+      significado:
+        'Guion estructurado que guía la interacción entre vendedor y cliente, facilitando la presentación de la oferta y el manejo de objeciones.',
     },
   ],
   referencias: [
