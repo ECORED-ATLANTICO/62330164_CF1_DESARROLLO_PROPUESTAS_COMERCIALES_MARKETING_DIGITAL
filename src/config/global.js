@@ -225,118 +225,115 @@ export default {
   },
   complementario: [
     {
-      tema: 'Técnicas de seguimiento comercial',
+      tema: '<i>Marketing</i> digital',
       referencia:
-        'Vidal, E. (2023). <i>Técnicas de seguimiento comercial: métricas, plantillas y ejemplos</i>. Ventas de Alto Octanaje.',
-      tipo: 'Artículo web',
-      link:
-        'https://www.ventasdealtooctanaje.com/blog/tecnicas-de-seguimiento-comercial-metricas-plantillas-y-ejemplos-de-aplicacion-para-gerentes-y-vendedores',
+        'Kotler, P., Kartajaya, H., & Setiawan, I. (2021). <i>Marketing 5.0: Tecnología para la humanidad</i>. LID Editorial.',
+      tipo: 'Libro completo en español',
+      link: 'https://archive.org/details/marketing-5.0-philip-kotler-espanol',
     },
     {
-      tema: 'Estrategias de seguimiento proactivo',
+      tema: '<i>Marketing</i> digital',
       referencia:
-        'Nomadia Group. (2023). <i>Seguimiento comercial en 2023: ¡la guía completa!</i> Nomadia.',
-      tipo: 'Artículo web',
+        'Ministerio de Producción de Argentina. (2021). <i>Manual de marketing digital para emprendedores</i>.',
+      tipo: 'Manual práctico en PDF',
       link:
-        'nomadia-group.com/es/recursos/blog/seguimiento-comercial-en-2023-la-guia-completa/',
+        'https://www.academia.edu/85247906/Manual_de_marketing_digital_para_emprendedores',
     },
     {
-      tema: 'Comunicación comercial efectiva',
+      tema: 'Presentaciones efectivas',
       referencia:
-        'Maddio, G. (s.f.). <i>Técnicas de ventas y comunicación comercial</i>. Universidad Nacional de Cuyo.',
-      tipo: 'Capítulo de libro',
+        'Cámara de Comercio de Bogotá. (2020). <i>Aprende a elaborar presentaciones efectivas: marca la diferencia</i>.',
+      tipo: 'Guía didáctica en PDF',
       link:
-        'https://fce.uncuyo.edu.ar/upload/se-adm-n66-tecnicas-de-ventas-y-comunicacion-comercial-gustavo-maddio.pdf',
+        'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/9087/100000333.pdf',
     },
     {
-      tema: 'Herramientas digitales para seguimiento',
+      tema: 'Recursos digitales',
       referencia:
-        'LaGrowthMachine. (2023). <i>Impulse sus ventas con estas estrategias de seguimiento comercial</i>. LaGrowthMachine.',
-      tipo: 'Artículo web',
-      link: 'https://lagrowthmachine.com/es/seguimiento-comercial/',
+        'FlipHTML5. (s.f.). <i>10 plantillas de portafolios profesionales gratis para descargar y editar</i>. FlipHTML5 Blog. Recuperado en julio de 2025, de ',
+      tipo: 'Recursos digitales',
+      link: 'https://fliphtml5.com/',
     },
   ],
   glosario: [
     {
-      termino: 'Anclaje',
+      termino: 'Capacidades empresariales',
       significado:
-        'Técnica persuasiva que consiste en presentar una cifra inicial que influye en la percepción del cliente sobre ofertas posteriores.',
+        'Recursos, procesos y condiciones que permiten a la empresa cumplir lo que ofrece.',
     },
     {
-      termino: 'Autoridad',
+      termino: 'Cliente digital',
       significado:
-        'Principio persuasivo que utiliza testimonios, certificaciones o expertos para generar credibilidad en una propuesta comercial.',
+        'Usuario que interactúa, compra y decide a través de canales digitales.',
     },
     {
-      termino: 'Canal de comunicación',
+      termino: 'Diseño narrativo',
       significado:
-        'Medio a través del cual se transmite el mensaje comercial, como correo electrónico, redes sociales o presentaciones digitales.',
+        'Estructura lógica y visual que guía la lectura de la propuesta comercial.',
     },
     {
-      termino: 'Cliente',
+      termino: '<i>Marketing</i> digital',
       significado:
-        'Receptor de la propuesta comercial, cuya necesidad o interés motiva el diseño de la oferta.',
+        'Conjunto de estrategias de comercialización a través de medios y plataformas digitales.',
     },
     {
-      termino: 'Comunicación comercial',
+      termino: 'Persuasión ética',
       significado:
-        'Proceso estratégico mediante el cual una empresa transmite valor a sus clientes a través de mensajes claros y persuasivos.',
+        'Capacidad de influir respetando la autonomía y razonamiento del receptor.',
     },
     {
-      termino: 'CRM',
+      termino: 'Portafolio',
       significado:
-        'Siglas de <i>Customer Relationship Management</i>, herramienta digital que permite gestionar relaciones con clientes y automatizar el seguimiento comercial.',
-    },
-    {
-      termino: 'Escasez',
-      significado:
-        'Técnica persuasiva que genera urgencia al limitar la disponibilidad de un producto o servicio.',
-    },
-    {
-      termino: 'Fidelización',
-      significado:
-        'Estrategia comercial orientada a mantener y fortalecer la relación con clientes a largo plazo.',
-    },
-    {
-      termino: 'Frecuencia de contacto',
-      significado:
-        'Número y ritmo de interacciones con el cliente durante el proceso de seguimiento comercial.',
-    },
-    {
-      termino: 'Informe comercial',
-      significado:
-        'Documento que recopila datos sobre el seguimiento de propuestas, incluyendo indicadores como respuestas, reuniones y cierres.',
-    },
-    {
-      termino: 'Modelo colaborativo',
-      significado:
-        'Enfoque de negociación que busca construir relaciones duraderas basadas en confianza y cooperación.',
-    },
-    {
-      termino: 'Modelo distributivo',
-      significado:
-        'Enfoque de negociación competitivo donde cada parte busca maximizar su beneficio individual.',
-    },
-    {
-      termino: 'Persuasión',
-      significado:
-        'Capacidad de influir en las decisiones del cliente mediante argumentos, emociones o técnicas estratégicas.',
+        'Conjunto organizado de productos o servicios que ofrece una empresa.',
     },
     {
       termino: 'Propuesta comercial',
       significado:
-        'Documento estructurado que presenta una oferta de productos o servicios, destacando beneficios, condiciones y llamado a la acción.',
+        'Documento que presenta una oferta de productos o servicios con condiciones claras.',
     },
     {
-      termino: '<i>Script</i> comercial',
+      termino: 'Recursos digitales',
       significado:
-        'Guion estructurado que guía la interacción entre vendedor y cliente, facilitando la presentación de la oferta y el manejo de objeciones.',
+        'Herramientas como imágenes, video, audio y texto utilizadas en entornos virtuales.',
+    },
+    {
+      termino: 'Segmentación',
+      significado: 'Proceso de dividir el mercado según criterios específicos.',
+    },
+    {
+      termino: '<i>Storytelling</i> comercial',
+      significado:
+        'Uso de narrativas para conectar emocionalmente con el cliente.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Arango Serna, S. A., Londoño Salazar, J. H., & Álvarez Uribe, A. M. (2015). <.>Capacidades de negocio en el contexto empresarial. Revista Facultad de Ingeniería, (76), 2–13</i>. Redalyc. ',
+      link: 'https://www.redalyc.org/pdf/1942/194224362002.pdf',
+    },
+    {
+      referencia:
+        'Escobar Ceballos, N. M., & Vargas Manzano, M. A. (2022). <i>La narración de historias y el desarrollo de contenidos publicitarios en redes sociales. Caso: Bimbo en Instagram. Revista Comunicación, 31(1), 65–78</i>. Redalyc. ',
+      link: 'https://www.redalyc.org/articulo.oa?id=637969125003',
+    },
+    {
+      referencia:
+        'Fernández Valiñas, R. (2023). <i>Segmentación de mercados</i>. Universidad Tecnológica de México.',
+      link:
+        'https://www.uteg.edu.ec/biblioteca-libros/wp-content/uploads/2023/09/Segmentacion-de-mercados_compressed.pdf',
+    },
+    {
+      referencia:
+        'Guisado Rodríguez, A. M. (2021). <i>“Storytelling”: cómo contar historias ayuda a la estrategia de marketing</i> (Trabajo de fin de grado). Universidad de Sevilla',
+      link:
+        'https://idus.us.es/bitstreams/7e46ad9f-13e6-4bda-ac17-9a771a9bc5c1/download',
+    },
+    {
+      referencia:
+        'Solomon, M. R. (2018). <i>Comportamiento del consumidor: Comprando, poseyendo y siendo (12ª ed.).</i> Pearson Educación.',
+      link:
+        'https://www.academia.edu/123591709/Comportamiento_del_consumidor_Solomon',
     },
   ],
   creditos: [
