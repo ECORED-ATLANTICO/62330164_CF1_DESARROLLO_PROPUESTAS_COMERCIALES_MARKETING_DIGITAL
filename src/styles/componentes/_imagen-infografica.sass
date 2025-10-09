@@ -111,11 +111,13 @@
 .img-infografica-b
   &--open
     .img-infografica-b__img
-      position: absolute
+      position: block
       width: 100%
+      min-height: 200px 
   &__modal
-    background-color: rgba($black, .9)
+    background-color: $color-sistema-texto
     animation: entrada-modal 0.2s ease-in-out forwards
+    border-radius: 25px
     &__contenido
       div > *
         color: $white !important

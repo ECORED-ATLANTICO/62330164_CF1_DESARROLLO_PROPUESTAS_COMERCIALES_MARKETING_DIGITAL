@@ -5,7 +5,15 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Tema 5
+      h1 Herramientas Digitales
+
+    #t_5_1.titulo-segundo.color-acento-contenido
+      .h2(data-aos="fade-right") 5.1 Imágenes, videos, audio y texto
+    .mb-3
+
+    #t_5_2.titulo-segundo.color-acento-contenido
+      .h2(data-aos="fade-right") 5.2 Calidad en los documentos 
+    .mb-3
 
 
 </template>
