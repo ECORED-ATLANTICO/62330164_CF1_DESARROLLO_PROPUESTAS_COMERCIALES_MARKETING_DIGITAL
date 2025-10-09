@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Negociación de propuestas comerciales.',
+    Name: 'Propuesta comercial',
     Description:
-      'Este componente desarrolla competencias orientadas a la estructuración, presentación y seguimiento de propuestas comerciales en entornos digitales. A través del estudio de la comunicación comercial, los modelos de negociación, las técnicas persuasivas, los protocolos de seguimiento y los programas de fidelización, el aprendiz adquiere herramientas para influir éticamente en la toma de decisiones del cliente y construir relaciones sostenibles.',
+      'Este componente desarrolla habilidades para estructurar propuestas comerciales digitales relevantes y persuasivas, integrando principios de marketing, análisis del cliente y capacidades empresariales. Se enfoca en comunicar soluciones estratégicas utilizando recursos digitales y técnicas de presentación profesional.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -36,28 +36,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Comunicación comercial',
+        titulo: '<i>Marketing</i> digital',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Concepto',
+            titulo: 'Concepto y Principios',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Elementos',
+            titulo: 'Análisis del entorno',
             hash: 't_1_2',
-          },
-          {
-            numero: '1.3',
-            titulo: 'Interferencias',
-            hash: 't_1_3',
-          },
-          {
-            numero: '1.4',
-            titulo: 'Herramientas digitales',
-            hash: 't_1_4',
           },
         ],
       },
@@ -65,63 +55,63 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Negociación estratégica',
+        titulo: 'Cliente',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Concepto',
+            titulo: 'Concepto y perfil',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Modelos',
+            titulo: 'Técnicas de análisis',
             hash: 't_2_2',
-          },
-          {
-            numero: '2.3',
-            titulo: 'Técnicas de anclaje y persuasión',
-            hash: 't_2_3',
-          },
-          {
-            numero: '2.4',
-            titulo: 'Desarrollo de <i>scripts</i>',
-            hash: 't_2_4',
           },
         ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Seguimiento',
+        titulo: 'Capacidades empresariales',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Técnicas de seguimiento',
+            titulo: 'Planes de mercadeo',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Herramientas de seguimiento',
+            titulo: 'Planes de mercadeo',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Protocolos',
+            titulo: 'Inventarios, términos y condiciones',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: 'Informes',
+            titulo: 'Gestión de pagos y descuentos',
             hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Portafolio',
+            hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: 'Producción',
+            hash: 't_3_6',
           },
         ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Programas de fidelización',
+        titulo: 'Propuestas comerciales',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -131,23 +121,59 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Objetivo',
+            titulo: 'Elementos que la componen',
             hash: 't_4_2',
           },
           {
             numero: '4.3',
-            titulo: 'Beneficios',
+            titulo: 'Aplicación en planes de mercadeo',
             hash: 't_4_3',
           },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Herramientas digitales',
+        desarrolloContenidos: true,
+        subMenu: [
           {
-            numero: '4.4',
-            titulo: 'Tipos',
-            hash: 't_4_4',
+            numero: '5.1',
+            titulo: 'Imágenes, videos, audio y texto',
+            hash: 't_5_1',
           },
           {
-            numero: '4.5',
-            titulo: 'Estrategias',
-            hash: 't_4_5',
+            numero: '5.2',
+            titulo: 'Calidad en los documentos',
+            hash: 't_4_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Organización de propuesta comercial',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Estructura',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Técnicas de persuasión',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Redacción',
+            hash: 't_6_3',
+          },
+          {
+            numero: '6.4',
+            titulo: 'Presentaciones',
+            hash: 't_6_4',
           },
         ],
       },

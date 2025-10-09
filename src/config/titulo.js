@@ -1,2 +1,1 @@
-module.exports =
-  'Desarrollo de propuestas comerciales en <i>marketing</i> digital'
+module.exports = 'Propuesta comercial'
