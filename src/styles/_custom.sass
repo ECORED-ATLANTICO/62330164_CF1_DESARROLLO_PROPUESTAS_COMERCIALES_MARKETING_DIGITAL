@@ -72,3 +72,76 @@
 
 figcaption
   font-weight: normal
+
+
+// --- .cita-decorada ---
+
+.cita-decorada
+  
+  .cita-decorada__caja
+    background-size: 100% 100%
+    background-repeat: no-repeat
+
+    &--fondo-1
+      background-image: url('../assets/curso/temas/tema_1/img_2.png')
+
+    &--fondo-2
+      background-image: url('../assets/curso/temas/tema_1/img_7.png')
+
+
+    [class*="cita-decorada__imagen-flotante"]
+      width: 100%
+      height: auto
+      
+    .cita-decorada__imagen-flotante-1
+      position: absolute
+      transform: translateY(-120px) translateX(-15px)
+      z-index: 3
+      max-width: 300px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-113px) translateX(-40px)
+        max-width: 220px
+      
+    .cita-decorada__imagen-flotante-2
+      position: absolute
+      transform: translateY(-106px) translateX(-68px)
+      z-index: 3
+      max-width: 300px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-85px) translateX(-68px)
+        max-width: 250px
+      
+    .cita-decorada__imagen-flotante-3
+      position: absolute
+      transform: translateY(-100px) translateX(-68px)
+      z-index: 3
+      max-width: 240px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-80px) translateX(-60px)
+        max-width: 200px
+      
+    .cita-decorada__imagen-flotante-4
+      position: absolute
+      transform: translateY(-95px) translateX(-45px)
+      z-index: 3
+      max-width: 210px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-80px) translateX(-45px)
+        max-width: 185px
+
+// Tabla a 
+.tabla-a thead
+  border-top: 5px $color-terciario solid
+  background-color: $color-terciario-10
+  color: $color-sistema-a
+  font-weight: bold
+.bg-table-01
+  background-color: $color-adicional-1
+  color: $color-sistema-texto
+
+.border-dashed 
+  border-style: dotted !important

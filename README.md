@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+[https://ecored-atlantico.github.io/62330164_CF1_DESARROLLO_PROPUESTAS_COMERCIALES_MARKETING_DIGITAL/](https://ecored-atlantico.github.io/62330164_CF1_DESARROLLO_PROPUESTAS_COMERCIALES_MARKETING_DIGITAL/)
 
 #
 
@@ -38,4 +38,6 @@ npm run build
 
 ### Linteo y arreglo de sintaxis de archivos
 
+```
+npm run lint
 ```
