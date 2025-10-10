@@ -277,7 +277,14 @@
       &:last-child
         padding-bottom: 0
         border-bottom: none
-
+  &--separador-color-primario
+    li
+      padding-bottom: 15px
+      margin-bottom: 15px
+      border-bottom: solid 1px $color-sistema-c
+      &:last-child
+        padding-bottom: 0
+        border-bottom: none
   &--cuadro
     @extend .lista-ol
     li
@@ -326,3 +333,9 @@
     li
       > i:first-of-type
         color: $color-acento-contenido
+
+  &--color-primario
+    @extend .lista-ul
+    li
+      > i:first-of-type
+        color: $color-primario

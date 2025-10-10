@@ -73,6 +73,8 @@
             td Utiliza líderes de opinión digitales para ganar credibilidad.
             td YouTube, Instagram, TikTok
 
+    separador
+
     #t_1_1.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 1.1 Concepto y principios
     .mb-3
@@ -144,7 +146,9 @@
             td.fw-bold Experiencia centrada en el usuario
             td Diseñar navegación y contenidos útiles y amigables.
             td Aplicaciones con menús intuitivos y recomendaciones personalizadas.
-    
+
+    separador
+
     .bg_img_1.mb-3
 
       #t_1_2.titulo-segundo.color-acento-contenido
@@ -178,8 +182,8 @@
           h5 Figura 1.
           span Herramientas para el análisis del entorno digital y su aplicación
         figure(data-aos="zoom-in-right")
-          img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-none d-lg-block mb-3", alt="La figura presenta los principales tipos de programación de almacén: por órdenes de pedido, por rutas de picking, por oleadas, en tiempo real y por turnos, cada uno con criterios y aplicaciones específicas según el tipo de operación.")
-          img(src='@/assets/curso/temas/tema_1/img_13.svg', class="img-fluid d-block d-lg-none mb-3", alt="La figura presenta los principales tipos de programación de almacén: por órdenes de pedido, por rutas de picking, por oleadas, en tiempo real y por turnos, cada uno con criterios y aplicaciones específicas según el tipo de operación.")
+          img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-none d-lg-block mb-3")
+          img(src='@/assets/curso/temas/tema_1/img_13.svg', class="img-fluid d-block d-lg-none mb-3")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> Elaboración propia con base en Kotler & Keller, 2016, y documentación oficial de cada herramienta.
 </template>
