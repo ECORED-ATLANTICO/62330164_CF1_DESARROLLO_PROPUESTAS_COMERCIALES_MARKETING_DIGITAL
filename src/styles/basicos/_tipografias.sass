@@ -273,15 +273,7 @@
     li
       padding-bottom: 15px
       margin-bottom: 15px
-      border-bottom: solid 1px $color-sistema-c
-      &:last-child
-        padding-bottom: 0
-        border-bottom: none
-  &--separador-color-primario
-    li
-      padding-bottom: 15px
-      margin-bottom: 15px
-      border-bottom: solid 1px $color-sistema-c
+      border-bottom: solid 1px $color-primario
       &:last-child
         padding-bottom: 0
         border-bottom: none
@@ -335,7 +327,23 @@
         color: $color-acento-contenido
 
   &--color-primario
-    @extend .lista-ul
-    li
-      > i:first-of-type
-        color: $color-primario
+  @extend .lista-ul
+  li
+    display: flex
+    align-items: flex-start
+    gap: 1rem
+    margin-bottom: 1.5rem
+    border-bottom: 1px solid rgba($color-primario, 0.4)
+    padding-bottom: 1rem
+
+    > img:first-of-type
+      width: 4rem
+      height: auto
+      flex-shrink: 0
+      position: relative
+      top: 4px
+
+    .texto
+      display: flex
+      flex-direction: column
+      line-height: 1.4

@@ -328,7 +328,7 @@
         figure
           img(src='@/assets/curso/temas/tema_3/img_34.png', class="img-fluid")
       .col-12.col-lg-8
-        .custom-slider--fondo__slider-3.p-2.p-sm-3.mb-5(data-aos="zoom-in-right")
+        .custom-slider--fondo__slider-3.p-2.p-sm-3.mb-0(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6")
             .tarjeta--fondo__slider-3.h-95
               .row.justify-content-center.align-items-center.mb-0

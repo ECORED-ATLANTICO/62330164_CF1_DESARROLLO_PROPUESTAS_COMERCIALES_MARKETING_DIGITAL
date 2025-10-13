@@ -44,24 +44,32 @@
           figure
             img(src="@/assets/curso/temas/tema_4/img_5.png", class="img-fluid")
         .col-12.col-lg-6(data-aos="zoom-in-right")
-          p.mb-3
-          ul.lista-ul--color-primario.lista-ul--separador-color-primario
-            li 
-              i.fas.fa-feather
-              span Comunicar valor
-              span Mostrar beneficios y diferenciadores del producto o servicio. Genera interés auténtico.
+          ul.lista-ul--color-primario.lista-ul--separador
             li 
               img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
-              span Item lista no ordenada
+              .texto
+                span Comunicar valor
+                span Mostrar beneficios y diferenciadores del producto o servicio. Genera interés auténtico.
             li 
-              i.fas.fa-kiwi-bird
-              span Item lista no ordenada    
+              img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
+              .texto
+                span Formalizar condiciones
+                span Establecer términos claros de entrega, pago y garantías. Evita malentendidos o conflictos posteriores.
             li 
-              i.fas.fa-kiwi-bird
-              span Item lista no ordenada   
+              img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
+              .texto
+                span Persuadir estratégicamente
+                span  Usar argumentos y diseño para guiar la decisión del cliente. Aumenta la conversión comercial.
             li 
-              i.fas.fa-kiwi-bird
-              span Item lista no ordenada   
+              img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
+              .texto
+                span Fortalecer imagen profesional
+                span Reflejar seriedad, estructura y cuidado por el cliente. Mejora percepción de marca. 
+            li 
+              img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
+              .texto
+                span Facilitar toma de decisiones
+                span Presentar de manera clara, ordenada y digitalmente accesible. Reduce fricción en el proceso de venta.
 
     separador
  
@@ -96,7 +104,6 @@
               .col-12.col-lg-3.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_4/img_9.png',  class="img-fluid cita-decorada__imagen-flotante-8")
-      
 
     .row.justify-content-center.align-items-center
       .col-12.col-lg-10
@@ -231,8 +238,40 @@
         .h2(data-aos="fade-right") 4.3 Aplicación en planes de mercadeo
       .mb-3
 
-
-
+      
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+          figure
+            img(src="@/assets/curso/temas/tema_4/img_22.png", class="img-fluid")
+        .col-12.col-lg-9(data-aos="zoom-in-right")
+          p.mb-3 Las propuestas comerciales deben integrarse como piezas tácticas dentro de los planes de mercadeo de la empresa, respondiendo a objetivos, segmentación y canales definidos. Su valor radica en funcionar como vehículo de comunicación entre lo que se proyecta estratégicamente y lo que finalmente se entrega al cliente.
+          p.mb-3 Según Kotler y Keller (2016), una propuesta bien alineada permite que las acciones de marketing sean coherentes entre sí, mejore la consistencia de marca y facilite la medición de resultados. Las propuestas pueden ajustarse para diferentes etapas del embudo de conversión: desde el interés inicial hasta el cierre de venta.
+          .cajon.color-adicional-1.p-4.mb-0
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-11
+                p.mb-0 Su aplicación también depende del canal en el que se presente: una propuesta enviada por correo debe tener estructura lineal y adjuntos optimizados; una publicada en redes sociales requiere un enfoque más persuasivo y visual. Además, la retroalimentación obtenida de cada propuesta enviada sirve como insumo para ajustar futuras acciones dentro del plan general de mercadeo.
+      
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10(data-aos="zoom-in-right")
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-8
+                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La marca de cafés especiales Tostadores Unión utiliza sus propuestas digitales como parte del lanzamiento de nuevos productos en canales B2B. Dentro del plan de mercadeo anual, asignan campañas con entregables específicos y propuestas personalizadas que incluyen ficha técnica del café, presentación sensorial, precio por volumen y exclusividades. Esto les permite fortalecer relaciones con restaurantes y distribuidores especializados.
+              .col-12.col-lg-3.d-none.d-lg-block
+                figure
+                  img(src='@/assets/curso/temas/tema_4/img_24.png',  class="img-fluid cita-decorada__imagen-flotante-8")
+    
+    .row.justify-content-center.align-items-center
+      .col-12.col-lg-10.mb-5
+        .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
+          h5 Figura 4.
+          span Integración de propuestas comerciales en el plan de mercadeo
+        figure(data-aos="zoom-in-right")
+          img(src='@/assets/curso/temas/tema_4/img_25.svg', class="img-fluid d-none d-lg-block mb-3")
+          img(src='@/assets/curso/temas/tema_4/img_26.svg', class="img-fluid d-block d-lg-none mb-3")
+        figcaption(data-aos="zoom-in-right") 
+          <b>Fuente:</b> Elaboración propia con base en Kotler & Keller, 2016.
 </template>
 
 <script>
