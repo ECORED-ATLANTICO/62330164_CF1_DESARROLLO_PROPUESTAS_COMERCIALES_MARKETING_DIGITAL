@@ -27,8 +27,8 @@
         line-height: 1em
     &__dot
       position: relative
-      width: 100%
-      padding-top: 100%
+      width: 3.4em
+      height: 3.4em
       i
         position: absolute
         top: 50%
@@ -76,7 +76,7 @@
       i
         color: textColor($color-primario)
       &:before, &:after
-        background-color: $color-primario
+        background-color: transparent
     .img-infografica__item__numero
       color: textColor($color-primario)
   &.color-secundario
@@ -113,11 +113,22 @@
     .img-infografica-b__img
       position: block
       width: 100%
-      min-height: 200px 
+      min-height: 100px 
   &__modal
+    position: absolute
+    top: 0%
+    left: 8.9%
+    transform: translate(-50%, -50%)
+    width: 85%
+    height: 85%
+    z-index: 100
     background-color: $color-sistema-texto
     animation: entrada-modal 0.2s ease-in-out forwards
     border-radius: 25px
+    padding: 3rem 
+    border-radius: 25px
+    padding: 2.5rem
+    overflow: auto
     &__contenido
       div > *
         color: $white !important
