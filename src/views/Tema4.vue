@@ -7,13 +7,14 @@
         span 4
       h1 Propuestas comerciales
 
-    .tarjeta.color-primario-10.rounded-0.p-lg-0.p-3.mb-5(data-aos="zoom-in-right")
-      .row.justify-content-center.align-items-center.mb-0
-        .col-12.col-lg-5.mb-lg-0.mb-3.p-0
-          figure.p-0
-            img(src="@/assets/curso/temas/tema_4/img_1.png", class="img-fluid").p-0
-        .col-12.col-lg-7.p-lg-3.p-5
-          p.mb-0 Según Gitomer (2019), una propuesta comercial efectiva debe ser relevante, específica y emocionalmente convincente, ya que en medios digitales el tiempo de atención del cliente es limitado y competitivo. La propuesta funciona como carta de presentación, argumento de venta y prueba de profesionalismo, ya sea que se estructure en formato PDF, presentación interactiva o landing page. 
+    .tarjeta.color-primario-10.rounded-0.overflow-hidden.mb-5(data-aos="fade-right")
+      .row.g-0.align-items-stretch
+        .col-12.col-lg-5.mb-lg-0.mb-3
+          img(src="@/assets/curso/temas/tema_4/img_1.png", class="w-100 h-100", style="object-fit: cover; min-height: 200px;")
+        .col-12.col-lg-7
+          .p-4.p-lg-5.d-flex.align-items-center.h-100
+            div
+              p.mb-0 Según Gitomer (2019), una propuesta comercial efectiva debe ser relevante, específica y emocionalmente convincente, ya que en medios digitales el tiempo de atención del cliente es limitado y competitivo. La propuesta funciona como carta de presentación, argumento de venta y prueba de profesionalismo, ya sea que se estructure en formato PDF, presentación interactiva o landing page. 
 
     separador
 

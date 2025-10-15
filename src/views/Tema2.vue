@@ -7,13 +7,14 @@
         span 2
       h1 Cliente Digital
 
-    .tarjeta.color-primario-10.rounded-0.p-lg-0.p-3.mb-0(data-aos="zoom-in-right")
-      .row.justify-content-center.align-items-center.mb-0
-        .col-12.col-lg-5.mb-lg-0.mb-3.p-0
-          figure.p-0
-            img(src="@/assets/curso/temas/tema_2/img_1.png", class="img-fluid").p-0
-        .col-12.col-lg-7.p-lg-3.p-5
-          p.mb-0 El cliente es el eje central de toda actividad comercial, pues representa a la persona o entidad que adquiere productos o servicios para satisfacer necesidades, resolver problemas o cumplir deseos específicos. Su importancia radica en que sus preferencias, expectativas y comportamientos determinan las estrategias de venta, el diseño de la oferta y la manera en que las empresas se relacionan con el mercado. Comprender quién es el cliente y cómo actúa permite desarrollar propuestas comerciales más efectivas, orientadas a generar valor, fidelización y ventajas competitivas.
+    .tarjeta.color-primario-10.rounded-0.overflow-hidden.mb-5(data-aos="fade-right")
+      .row.g-0.align-items-stretch
+        .col-12.col-lg-5.mb-lg-0.mb-3
+          img(src="@/assets/curso/temas/tema_2/img_1.png", class="w-100 h-100", style="object-fit: cover; min-height: 200px;")
+        .col-12.col-lg-7
+          .p-4.p-lg-5.d-flex.align-items-center.h-100
+            div
+              p.mb-0 El cliente es el eje central de toda actividad comercial, pues representa a la persona o entidad que adquiere productos o servicios para satisfacer necesidades, resolver problemas o cumplir deseos específicos. Su importancia radica en que sus preferencias, expectativas y comportamientos determinan las estrategias de venta, el diseño de la oferta y la manera en que las empresas se relacionan con el mercado. Comprender quién es el cliente y cómo actúa permite desarrollar propuestas comerciales más efectivas, orientadas a generar valor, fidelización y ventajas competitivas.
 
     separador
 
@@ -45,7 +46,7 @@
           img(src='@/assets/curso/temas/tema_2/img_4.png', class="img-fluid")
       .col-12.col-lg-12.col-xl-8.mb-0
         .custom-slider.p-2.p-sm-3(data-aos="zoom-in-right")
-          SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
+          SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6")
             .tarjeta--fondo__slider-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3

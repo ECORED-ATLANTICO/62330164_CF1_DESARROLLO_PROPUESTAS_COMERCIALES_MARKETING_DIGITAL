@@ -60,7 +60,7 @@
       .mb-3
        
       .row.justify-content-center.align-items-center.mb-5
-        .col-12.col-lg-4.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_6/img_7.png", class="img-fluid")
         .col-12.col-lg-6(data-aos="zoom-in-right")
@@ -84,13 +84,14 @@
       .h2(data-aos="fade-right") 6.3 Redacción 
     .mb-3
 
-    .tarjeta.color-primario-10.rounded-0.p-lg-0.p-3.mb-5(data-aos="zoom-in-right")
-      .row.justify-content-center.align-items-center.mb-0
-        .col-12.col-lg-5.mb-lg-0.mb-3.p-0
-          figure.p-0
-            img(src="@/assets/curso/temas/tema_6/img_10.png", class="img-fluid").p-0
-        .col-12.col-lg-7.p-lg-3.p-5
-          p.mb-0 La redacción consiste en construir mensajes escritos que no solo transmiten información, sino que persuaden, conectan emocionalmente y guían decisiones. Esto implica elegir las palabras adecuadas, ordenar ideas con lógica argumentativa, adaptar el lenguaje al perfil del receptor y cuidar el tono comunicacional.
+    .tarjeta.color-primario-10.rounded-0.overflow-hidden.mb-5(data-aos="fade-right")
+      .row.g-0.align-items-stretch
+        .col-12.col-lg-5.mb-lg-0.mb-3
+          img(src="@/assets/curso/temas/tema_6/img_10.png", class="w-100 h-100", style="object-fit: cover; min-height: 200px;")
+        .col-12.col-lg-7
+          .p-4.p-lg-5.d-flex.align-items-center.h-100
+            div
+              p.mb-0 La redacción consiste en construir mensajes escritos que no solo transmiten información, sino que persuaden, conectan emocionalmente y guían decisiones. Esto implica elegir las palabras adecuadas, ordenar ideas con lógica argumentativa, adaptar el lenguaje al perfil del receptor y cuidar el tono comunicacional.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-6.mb-lg-0.mb-3(data-aos="zoom-in-right")
@@ -104,7 +105,7 @@
         h5.mb-0 Los principios de la redacción en propuestas digitales son:
 
     .row.justify-content-center.align-items-center
-      .col-12.col-lg-4
+      .col-8.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema_6/img_11.png', class="img-fluid")
       .col-12.col-lg-8
@@ -160,7 +161,7 @@
         .col-12.col-lg-4.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_6/img_20.png", class="img-fluid")
-        .col-12.col-lg-6(data-aos="zoom-in-right")
+        .col-8.col-lg-6(data-aos="zoom-in-right")
           p.mb-0 Esto requiere aplicar principios como jerarquía visual, equilibrio compositivo, contraste adecuado y uso intencional del color. La tipografía también es clave: fuentes legibles, tamaños proporcionales y alineación coherente contribuyen a la experiencia de lectura. Las presentaciones más efectivas evitan el exceso de texto y priorizan el uso de íconos, imágenes, gráficos y espacios en blanco para ordenar el contenido sin saturarlo. Además, deben estar optimizadas en peso (para carga rápida), ser navegables en múltiples dispositivos, y contar con mecanismos de respuesta inmediata (botones, enlaces, formularios). En términos pedagógicos y comerciales, la presentación es la “puesta en escena” de la propuesta, donde diseño y argumento se funden para convencer sin abrumar.
     
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")

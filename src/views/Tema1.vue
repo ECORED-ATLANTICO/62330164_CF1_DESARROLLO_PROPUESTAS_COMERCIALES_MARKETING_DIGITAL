@@ -8,7 +8,7 @@
       h1 Marketing Digital 
       
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_1/img_1.png", class="img-fluid")
       .col-12.col-lg-9(data-aos="zoom-in-right")
@@ -95,7 +95,7 @@
             i.fas.fa-quote-right
       .col-12.col-lg-4(data-aos="zoom-in-right")
         .row.justify-content-center.align-items-center.mb-0
-          .col-12.col-lg-2.mb-lg-0.mb-3.d-none.d-lg-block
+          .col-6.col-lg-2.mb-lg-0.mb-3.d-none.d-lg-block
             figure
               img(src="@/assets/curso/temas/tema_1/img_5.svg", class="img-fluid")
           .col-12.col-lg-10
@@ -103,7 +103,7 @@
         
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-6.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_1/img_6.png", class="img-fluid")
       .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -163,7 +163,7 @@
           p.mb-0 El análisis del entorno permite identificar factores que inciden directa o indirectamente en las decisiones estratégicas del marketing comercial. En este contexto, el entorno se entiende como el conjunto de variables externas e internas que influyen en el comportamiento del mercado y en la capacidad de la empresa para generar valor desde plataformas digitales. 
     
       .row.justify-content-center.align-items-center.mb-3
-        .col-12.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        .col-6.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_1/img_10.png", class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -172,7 +172,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-9.order-2.order-lg-1(data-aos="zoom-in-right")
           p.mb-0 La observación activa de estas variables permite anticipar movimientos de la competencia, reconocer nuevas necesidades del cliente y ajustar los mensajes comerciales de manera oportuna. En la práctica, herramientas como Google Trends, SEMrush o Meta Business Suite facilitan este proceso al ofrecer métricas en tiempo real, segmentadas por ubicación, interés o comportamiento. Además, la adaptabilidad del entorno digital requiere que este análisis sea frecuente y dinámico, de modo que las propuestas comerciales respondan con agilidad y pertinencia a las condiciones cambiantes del mercado.
-        .col-12.col-lg-1.order-1.order-lg-2.mb-lg-0.mb-3.d-none.d-lg-block(data-aos="zoom-in-right")
+        .col-6.col-lg-1.order-1.order-lg-2.mb-lg-0.mb-3.d-none.d-lg-block(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_1/img_11.png", class="img-fluid")
 

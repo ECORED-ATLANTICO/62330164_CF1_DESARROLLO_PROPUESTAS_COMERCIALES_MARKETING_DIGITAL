@@ -22,13 +22,14 @@
         .h2(data-aos="fade-right") 3.1 Planes de Mercadeo
       .mb-3
 
-      .tarjeta.color-primario-10.rounded-0.p-lg-0.p-3.mb-5(data-aos="zoom-in-right")
-        .row.justify-content-center.align-items-center.mb-0
-          .col-12.col-lg-5.mb-lg-0.mb-3.p-0
-            figure.p-0
-              img(src="@/assets/curso/temas/tema_3/img_3.png", class="img-fluid").p-0
-          .col-12.col-lg-7.p-lg-3.p-5
-            p.mb-0 Los planes de mercadeo son documentos estratégicos que detallan los objetivos comerciales de una empresa, sus tácticas para alcanzarlos y los recursos asignados para su ejecución. Estos planes definen el rumbo que seguirá la organización en cuanto a posicionamiento, segmentación, canales de distribución y comunicación comercial. 
+      .tarjeta.color-primario-10.rounded-0.overflow-hidden.mb-5(data-aos="fade-right")
+        .row.g-0.align-items-stretch
+          .col-12.col-lg-5.mb-lg-0.mb-3
+            img(src="@/assets/curso/temas/tema_3/img_3.png", class="w-100 h-100", style="object-fit: cover; min-height: 200px;")
+          .col-12.col-lg-7
+            .p-4.p-lg-5.d-flex.align-items-center.h-100
+              div
+                p.mb-0 Los planes de mercadeo son documentos estratégicos que detallan los objetivos comerciales de una empresa, sus tácticas para alcanzarlos y los recursos asignados para su ejecución. Estos planes definen el rumbo que seguirá la organización en cuanto a posicionamiento, segmentación, canales de distribución y comunicación comercial. 
       
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-1.mb-lg-0.mb-3.d-none.d-lg-block(data-aos="zoom-in-right")
