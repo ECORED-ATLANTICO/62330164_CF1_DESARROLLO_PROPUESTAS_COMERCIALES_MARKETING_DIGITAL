@@ -213,7 +213,7 @@
               .col-12.col-lg-8
                 TarjetaAudio.color-tama6.mb-0(
                   texto="Propuestas Comerciales  "
-                  :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                  :audio="require('@/assets/curso/podcast/Podcast Organización y presentación persuasiva de propuestas comerciales.wav')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = false"
                 )
 

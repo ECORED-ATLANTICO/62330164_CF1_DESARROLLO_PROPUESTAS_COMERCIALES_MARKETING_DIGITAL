@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: '<i>Marketing</i> digital',
+        titulo: 'Marketing digital',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -272,7 +272,7 @@ export default {
         'Estructura lógica y visual que guía la lectura de la propuesta comercial.',
     },
     {
-      termino: '<i>Marketing</i> digital',
+      termino: 'Marketing digital',
       significado:
         'Conjunto de estrategias de comercialización a través de medios y plataformas digitales.',
     },
