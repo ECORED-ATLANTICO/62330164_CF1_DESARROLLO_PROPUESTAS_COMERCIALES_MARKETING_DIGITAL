@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Herramientas Digitales
+      h1 Herramientas digitales
       
     .row.justify-content-center.align-items-center.mb-0
       .col-8.col-lg-3.mb-lg-0.mb-4(data-aos="zoom-in-right")
@@ -123,16 +123,16 @@
         tbody
           tr
             td Legibilidad
-            td Uso adecuado de fuentes, tamaños y contrastes
-            td Facilita comprensión del contenido
+            td Uso adecuado de fuentes, tamaños y contrastes.
+            td Facilita comprensión del contenido.
           tr
             td Coherencia gráfica
-            td Uso consistente de colores, estilos y estructura
-            td Refuerza identidad institucional y estética
+            td Uso consistente de colores, estilos y estructura.
+            td Refuerza identidad institucional y estética.
           tr
             td Claridad lingüística
-            td Redacción precisa, sin ambigüedades ni errores
-            td Evita malentendidos y mejora percepción profesional
+            td Redacción precisa, sin ambigüedades ni errores.
+            td Evita malentendidos y mejora percepción profesional.
           tr
             td Accesibilidad digital
             td Compatibilidad con diferentes formatos y dispositivos.

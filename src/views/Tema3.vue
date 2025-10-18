@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Capacidades Empresariales
+      h1 Capacidades empresariales
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
@@ -19,7 +19,7 @@
 
     .bg_img_3.mb-3
       #t_3_1.titulo-segundo.color-acento-contenido
-        .h2(data-aos="fade-right") 3.1 Planes de Mercadeo
+        .h2(data-aos="fade-right") 3.1 Planes de mercadeo
       .mb-3
 
       .tarjeta.color-primario-10.rounded-0.overflow-hidden.mb-5(data-aos="fade-right")
@@ -44,7 +44,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-8
-                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa Alquería, del sector lácteo en Colombia, estructura sus planes de mercadeo cada año con base en tendencias de consumo y retroalimentación de clientes. A partir de este documento define propuestas comerciales para distribuidores y canales minoristas, adaptando productos, promociones y campañas a nichos específicos como hogares saludables o estudiantes universitarios.
+                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa <b>Alquería</b>, del sector lácteo en Colombia, estructura sus planes de mercadeo cada año con base en tendencias de consumo y retroalimentación de clientes. A partir de este documento define propuestas comerciales para distribuidores y canales minoristas, adaptando productos, promociones y campañas a nichos específicos como hogares saludables o estudiantes universitarios.
                 .col-12.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_3/img_6.png',  class="img-fluid cita-decorada__imagen-flotante-3")
@@ -87,7 +87,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-8
-                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> ha invertido en su propia red logística llamada Mercado Envíos. Esta permite ofrecer entregas gratuitas, en menor tiempo y con seguimiento automatizado. Este servicio se incluye como parte del valor de sus propuestas comerciales para los vendedores, aumentando la competitividad de sus publicaciones.
+                  p.cita-decorada__texto <B>Ejemplo empresarial. Mercado libre Colombia</B> ha invertido en su propia red logística llamada Mercado Envíos. Esta permite ofrecer entregas gratuitas, en menor tiempo y con seguimiento automatizado. Este servicio se incluye como parte del valor de sus propuestas comerciales para los vendedores, aumentando la competitividad de sus publicaciones.
                 .col-12.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_3/img_13.png',  class="img-fluid cita-decorada__imagen-flotante-4")
@@ -143,7 +143,7 @@
             img(src="@/assets/curso/temas/tema_3/img_15.png", class="img-fluid")
         .col-12.col-lg-7(data-aos="zoom-in-right")
           p.mb-3 Los inventarios representan el conjunto de bienes disponibles para comercializar, y su correcta administración es esencial para la viabilidad de las propuestas comerciales. Los términos y condiciones, por su parte, conforman el marco legal y operativo que define la relación comercial entre partes: precio, plazos, garantías, política de devoluciones, entre otros.
-          p.mb-0 De acuerdo con Chopra y Meindl (2018), una propuesta efectiva debe expresar claramente estos aspectos para evitar ambigüedades y transmitir seguridad. En entornos digitales, los sistemas ERP permiten gestionar inventarios en tiempo real y vincular directamente los términos con la experiencia de compra (ej.: checkouts personalizados).
+          p.mb-0 De acuerdo con Chopra y Meindl (2018), una propuesta efectiva debe expresar claramente estos aspectos para evitar ambigüedades y transmitir seguridad. En entornos digitales, los sistemas ERP permiten gestionar inventarios en tiempo real y vincular directamente los términos con la experiencia de compra (ej.: <i>checkouts</i> personalizados).
       
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -151,7 +151,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-8
-                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa de moda Studio F en Colombia ofrece en su tienda online productos con inventario actualizado al minuto, además de términos claros de entrega, cambios y garantías, lo que permite a sus clientes tomar decisiones informadas y seguras antes de comprar.
+                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa de moda Studio F en Colombia ofrece en su tienda <i>online</i> productos con inventario actualizado al minuto, además de términos claros de entrega, cambios y garantías, lo que permite a sus clientes tomar decisiones informadas y seguras antes de comprar.
                 .col-12.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_3/img_17.png',  class="img-fluid cita-decorada__imagen-flotante-5")
@@ -213,7 +213,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8
-                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa de tecnología iShop Colombia ofrece pagos vía tarjetas, transferencias, cuotas sin intereses y descuento por primera compra online, lo que convierte sus propuestas comerciales en experiencias accesibles y atractivas para diversos segmentos.
+                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa de tecnología iShop Colombia ofrece pagos vía tarjetas, transferencias, cuotas sin intereses y descuento por primera compra <i>online</i>, lo que convierte sus propuestas comerciales en experiencias accesibles y atractivas para diversos segmentos.
               .col-12.col-lg-3.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_20.png',  class="img-fluid cita-decorada__imagen-flotante-6")
@@ -224,7 +224,7 @@
       .row.justify-content-center.align-items-center
         .col-12.col-lg-10
           #t_3_5.titulo-segundo.color-acento-contenido
-            .h2(data-aos="fade-right") 3.5 Portafolio de productos / servicios
+            .h2(data-aos="fade-right") 3.5 Portafolio
           .mb-3
     
       .row.justify-content-center.align-items-center.mb-5
@@ -293,7 +293,7 @@
     separador
 
     #t_3_6.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 3.6 Capacidades de producción
+      .h2(data-aos="fade-right") 3.6 Producción
     .mb-3
 
     .row.justify-content-center.align-items-center.mb-5
@@ -310,7 +310,7 @@
                 h4.mb-0.ps-3 Según Stevenson (2020), evaluar la capacidad instalada es clave para diseñar planes de producción eficientes y asegurar la viabilidad de cualquier estrategia comercial. Dentro de estas capacidades se consideran aspectos como maquinaria, procesos productivos, certificaciones, flexibilidad operativa y escalabilidad.
                 i.fas.fa-quote-right
           .col-12.col-lg-5
-            p.mb-0 En el contexto digital, muchas empresas usan software de planificación de recursos empresariales (ERP) para vincular directamente las ventas proyectadas con las necesidades de producción, evitando sobreoferta o desabastecimiento. Una propuesta comercial responsable debe reconocer las limitaciones y fortalezas del proceso productivo para no comprometer la reputación ni los tiempos de entrega.
+            p.mb-0 En el contexto digital, muchas empresas usan <i>software</i> de planificación de recursos empresariales (ERP) para vincular directamente las ventas proyectadas con las necesidades de producción, evitando sobreoferta o desabastecimiento. Una propuesta comercial responsable debe reconocer las limitaciones y fortalezas del proceso productivo para no comprometer la reputación ni los tiempos de entrega.
 
     .row.justify-content-center.align-items-center
       .col-12.col-lg-10.mb-5

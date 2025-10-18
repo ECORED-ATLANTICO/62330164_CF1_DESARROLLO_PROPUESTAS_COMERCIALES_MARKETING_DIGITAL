@@ -13,7 +13,7 @@
         figure
           img(src="@/assets/curso/introduccion/img_1.png", data-aos="zoom-in")
       .col-12.col-lg-8(data-aos="fade-left")
-        p.mb-3.mb-lg-3(data-aos="fade-left") Este componente formativo se adentra en los fundamentos clave que sustentan la construcción de propuestas comerciales estratégicas, partiendo del entendimiento del marketing digital como enfoque integral, de la identificación profunda del cliente como sujeto activo del proceso comercial, y del análisis técnico de las capacidades organizacionales que sustentan la oferta. 
+        p.mb-3.mb-lg-3(data-aos="fade-left") Este componente formativo se adentra en los fundamentos clave que sustentan la construcción de propuestas comerciales estratégicas, partiendo del entendimiento del <i>marketing</i> digital como enfoque integral, de la identificación profunda del cliente como sujeto activo del proceso comercial, y del análisis técnico de las capacidades organizacionales que sustentan la oferta. 
         .cita-decorada.mb-1(data-aos="fade-left")
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2
             p.cita-decorada__texto.p-3 El estudio de las propuestas comerciales digitales representa una competencia esencial en el contexto actual de los mercados, donde las dinámicas de consumo, los canales de comunicación y las capacidades empresariales se redefinen continuamente bajo el impulso de lo digital. 

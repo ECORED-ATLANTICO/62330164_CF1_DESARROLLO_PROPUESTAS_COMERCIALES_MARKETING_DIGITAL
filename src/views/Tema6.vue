@@ -5,9 +5,9 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Organización y presentación persuasiva
+      h1 Organización de propuesta comercial
 
-    p(data-aos="zoom-in-right") Es el conjunto de estrategias utilizadas para estructurar, diseñar y comunicar la información de manera clara, atractiva y convincente, con el fin de captar la atención del cliente y motivarlo a aceptar la oferta. No se trata solo de “ordenar” el contenido, sino de guiar la experiencia del cliente, resaltando los elementos de mayor valor y generando confianza. En el contexto del marketing digital, la organización y presentación persuasiva también incluye la adaptación a diferentes formatos (PDF interactivo, presentaciones, videos o plataformas online) para lograr una experiencia visual impactante y alineada con la estrategia de marca.
+    p(data-aos="zoom-in-right") Es el conjunto de estrategias utilizadas para estructurar, diseñar y comunicar la información de manera clara, atractiva y convincente, con el fin de captar la atención del cliente y motivarlo a aceptar la oferta. No se trata solo de “ordenar” el contenido, sino de guiar la experiencia del cliente, resaltando los elementos de mayor valor y generando confianza. En el contexto del <i>marketing</i> digital, la organización y presentación persuasiva también incluye la adaptación a diferentes formatos (PDF interactivo, presentaciones, videos o plataformas online) para lograr una experiencia visual impactante y alineada con la estrategia de marca.
 
     separador
 

@@ -20,7 +20,7 @@ export default {
       tema: 'Dominando las propuestas comerciales digitales.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> identificar, comprender y aplicar los conceptos clave relacionados con el marketing digital, el cliente digital, las capacidades empresariales, la estructura de propuestas comerciales y las herramientas de presentación, mediante preguntas tipo verdadero / falso que promuevan el razonamiento crítico y la reafirmación conceptual.',
+        '<b> Objetivo:</b> identificar, comprender y aplicar los conceptos clave relacionados con el <i>marketing</i> digital, el cliente digital, las capacidades empresariales, la estructura de propuestas comerciales y las herramientas de presentación, mediante preguntas tipo verdadero / falso que promuevan el razonamiento crítico y la reafirmación conceptual.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -28,7 +28,7 @@ export default {
         {
           id: 1,
           texto:
-            'El marketing digital se basa únicamente en la promoción de productos en redes sociales.',
+            'El <i>marketing</i> digital se basa únicamente en la promoción de productos en redes sociales.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -44,14 +44,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Muy bien, el marketing digital abarca mucho más: incluye segmentación, experiencia de usuario, automatización, analítica y relaciones interactivas.',
+            'Muy bien, el <i>marketing</i> digital abarca mucho más: incluye segmentación, experiencia de usuario, automatización, analítica y relaciones interactivas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
           texto:
-            'Uno de los principios fundamentales del marketing digital es la personalización del contenido.',
+            'Uno de los principios fundamentales del <i>marketing</i> digital es la personalización del contenido.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [

@@ -9,11 +9,11 @@
       .col-12.col-lg-8.mb-lg-0.mb-0(data-aos="fade-left")
         .row.justify-content-center.align-items-stard.mb-2
           .col-12.col-lg-10.mb-0
-            p.mb-0 Este componente ofrece una visión integral del <i>storytelling</i> como herramienta estratégica para la creación de contenidos digitales con propósito. A lo largo de sus seis unidades temáticas, se abordan los fundamentos narrativos, su impacto en la comunicación y el <i>marketing</i>, así como las conexiones emocionales que fortalecen el vínculo entre marca y audiencia.
+            p.mb-0 Este componente formativo ofrece una mirada integral al proceso de creación de propuestas comerciales digitales, abordando los fundamentos del <i>marketing</i>, la comprensión del cliente y la evaluación de capacidades empresariales como pilares esenciales. A través de contenidos secuenciados se aprenderá a identificar necesidades del entorno, estructurar soluciones estratégicas y traducirlas en propuestas coherentes, persuasivas y alineadas con los objetivos comerciales de cada organización.
           .col-12.col-lg-2.d-none.d-lg-block.mb-0
             figure
               img(src="@/assets/curso/sintesis/img_2.png", class="img-fluid")  
-        p.mb-0 Se exploran diversos tipos de narrativas y se analizan casos de éxito como Airbnb, Dove y Spotify, que demuestran cómo las historias bien construidas generan confianza, fidelización y posicionamiento. Además, se presentan técnicas para fortalecer el <i>engagement</i>, adaptando los relatos a formatos digitales como <i>blogs</i>, redes sociales, videos y experiencias interactivas.
+        p.mb-0 La formación integra el uso de recursos digitales para fortalecer la presentación de la propuesta, promover el valor de la oferta y facilitar la toma de decisiones del cliente. Se enfatiza el pensamiento estratégico, la comunicación empática y la redacción profesional como competencias clave en contextos de negociación digital
     
     
     .row.justify-content-center

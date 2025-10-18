@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Cliente Digital
+      h1 Cliente
 
     .tarjeta.color-primario-10.rounded-0.overflow-hidden.mb-5(data-aos="fade-right")
       .row.g-0.align-items-stretch
@@ -37,8 +37,8 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-4
             .row.justify-content-center.align-items-center
               .col-12.col-lg-11
-                p.cita-decorada__texto El perfil del cliente consiste en la identificación, segmentación y representación de las características que definen a un usuario en función de su comportamiento, necesidades, valores y contexto; este proceso permite agrupar audiencias en subtipos que facilitan la personalización de propuestas comerciales, el diseño de contenidos y la aplicación de estrategias de marketing más precisas. 
-                h5 Para cada uno de estos tipos de datos, podemos definir un uso estratégico en marketing:
+                p.cita-decorada__texto El perfil del cliente consiste en la identificación, segmentación y representación de las características que definen a un usuario en función de su comportamiento, necesidades, valores y contexto; este proceso permite agrupar audiencias en subtipos que facilitan la personalización de propuestas comerciales, el diseño de contenidos y la aplicación de estrategias de <i>marketing</i> más precisas. 
+                h5 Para cada uno de estos tipos de datos, podemos definir un uso estratégico en <i>marketing</i>:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-6.col-xl-4.mb-3(data-aos="zoom-in-right")
@@ -68,14 +68,14 @@
                   span Ubicación.<br>
                   span Clima.<br>
                   span Región.<br>
-                  span Entorno Urbano o rural.<br>
+                  span Entorno urbano o rural.<br>
             .tarjeta--fondo__slider-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--3
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Psicográficas
                 .tarjeta--slider__content.text-center 
-                  span Estilo de vida<br>
+                  span Estilo de vida.<br>
                   span Valores.<br>
                   span Intereses.<br>
                   span Personalidad.<br>
@@ -101,7 +101,7 @@
         figure
           img(src="@/assets/curso/temas/tema_2/img_10.png", class="img-fluid")
       .col-12.col-lg-7(data-aos="zoom-in-right")
-        p.mb-0 Estos modelos pueden representarse mediante arquetipos o buyer personas, que sintetizan la información clave de segmentos prioritarios y sirven como guía para el desarrollo de contenidos, mensajes y productos. Un perfilamiento adecuado no solo mejora la conversión, sino que también permite establecer relaciones más empáticas y útiles, ya que reconoce al cliente en su complejidad y le ofrece soluciones alineadas a su contexto real.
+        p.mb-0 Estos modelos pueden representarse mediante arquetipos o <i>buyer</i> personas, que sintetizan la información clave de segmentos prioritarios y sirven como guía para el desarrollo de contenidos, mensajes y productos. Un perfilamiento adecuado no solo mejora la conversión, sino que también permite establecer relaciones más empáticas y útiles, ya que reconoce al cliente en su complejidad y le ofrece soluciones alineadas a su contexto real.
       .col-12.col-lg-1.mb-lg-0.mb-3.d-none.d-lg-block(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_2/img_11.svg", class="img-fluid")
@@ -125,7 +125,7 @@
           .bloque-texto-b.color-secundario-10.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0.ps-3 Según Lemon y Verhoef (2016), el análisis efectivo implica mapear el viaje del cliente (customer journey), identificando los puntos de contacto más relevantes y las emociones asociadas a cada etapa.
+              h4.mb-0.ps-3 Según Lemon y Verhoef (2016), el análisis efectivo implica mapear el viaje del cliente (<i>customer journey</i>), identificando los puntos de contacto más relevantes y las emociones asociadas a cada etapa.
               i.fas.fa-quote-right
       
     

@@ -14,7 +14,7 @@
         .col-12.col-lg-7
           .p-4.p-lg-5.d-flex.align-items-center.h-100
             div
-              p.mb-0 Según Gitomer (2019), una propuesta comercial efectiva debe ser relevante, específica y emocionalmente convincente, ya que en medios digitales el tiempo de atención del cliente es limitado y competitivo. La propuesta funciona como carta de presentación, argumento de venta y prueba de profesionalismo, ya sea que se estructure en formato PDF, presentación interactiva o landing page. 
+              p.mb-0 Según Gitomer (2019), una propuesta comercial efectiva debe ser relevante, específica y emocionalmente convincente, ya que en medios digitales el tiempo de atención del cliente es limitado y competitivo. La propuesta funciona como carta de presentación, argumento de venta y prueba de profesionalismo, ya sea que se estructure en formato PDF, presentación interactiva o <i>landing page</i>. 
 
     separador
 
@@ -75,7 +75,7 @@
     separador
  
     #t_4_2.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 4.2 Elementos que la componen
+      .h2(data-aos="fade-right") 4.2 Elementos
     .mb-3
 
     .bloque-texto-g.color-terciario-10.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
@@ -177,7 +177,7 @@
                 .col-12.col-lg-7
                   .h4 Oferta de los productos o servicios
                   p.mb-5 Detalla los productos o servicios ofrecidos, sus características, beneficios, ventajas competitivas y posibles opciones.
-                  p.mb-0 En marketing digital puede incluir estrategias, campañas, herramientas y canales de comunicación.
+                  p.mb-0 En <i>marketing</i> digital puede incluir estrategias, campañas, herramientas y canales de comunicación.
 
           div(x="92%" y="35%" tooltip="Ver más" numero="")
             .tarjeta.white-card.p-4
@@ -199,7 +199,7 @@
                 .col-12.col-lg-7
                   .h4 Presupuesto o propuesta económica
                   p.mb-5 Presenta los costos, tarifas, modalidades de pago, descuentos o promociones.
-                  p.mb-0 Es fundamental que sea claro, detallado y transparente
+                  p.mb-0 Es fundamental que sea claro, detallado y transparente.
 
           div(x="92%" y="68%" tooltip="Ver más" numero="")
             .tarjeta.white-card.p-4
@@ -236,7 +236,7 @@
             img(src="@/assets/curso/temas/tema_4/img_22.png", class="img-fluid")
         .col-12.col-lg-9(data-aos="zoom-in-right")
           p.mb-3 Las propuestas comerciales deben integrarse como piezas tácticas dentro de los planes de mercadeo de la empresa, respondiendo a objetivos, segmentación y canales definidos. Su valor radica en funcionar como vehículo de comunicación entre lo que se proyecta estratégicamente y lo que finalmente se entrega al cliente.
-          p.mb-3 Según Kotler y Keller (2016), una propuesta bien alineada permite que las acciones de marketing sean coherentes entre sí, mejore la consistencia de marca y facilite la medición de resultados. Las propuestas pueden ajustarse para diferentes etapas del embudo de conversión: desde el interés inicial hasta el cierre de venta.
+          p.mb-3 Según Kotler y Keller (2016), una propuesta bien alineada permite que las acciones de <i>marketing</i> sean coherentes entre sí, mejore la consistencia de marca y facilite la medición de resultados. Las propuestas pueden ajustarse para diferentes etapas del embudo de conversión: desde el interés inicial hasta el cierre de venta.
           .cajon.color-adicional-1.p-4.mb-0
             .row.justify-content-center.align-items-center
               .col-12.col-lg-11

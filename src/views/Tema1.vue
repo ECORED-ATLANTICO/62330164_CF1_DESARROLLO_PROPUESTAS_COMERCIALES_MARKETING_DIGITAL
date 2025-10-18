@@ -5,23 +5,23 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Marketing Digital 
+      h1 <i>Marketing</i> Digital 
       
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_1/img_1.png", class="img-fluid")
       .col-12.col-lg-9(data-aos="zoom-in-right")
-        p.mb-3 El marketing digital se refiere al conjunto de estrategias y acciones comerciales que utilizan plataformas digitales y tecnologías de la información para promover productos, servicios o experiencias; este enfoque trasciende el objetivo tradicional de venta, ya que se basa en crear relaciones interactivas y medibles entre la marca y el consumidor, aprovechando medios como redes sociales, motores de búsqueda, sitios web, correo electrónico y publicidad en línea. 
+        p.mb-3 El <i>marketing</i> digital se refiere al conjunto de estrategias y acciones comerciales que utilizan plataformas digitales y tecnologías de la información para promover productos, servicios o experiencias; este enfoque trasciende el objetivo tradicional de venta, ya que se basa en crear relaciones interactivas y medibles entre la marca y el consumidor, aprovechando medios como redes sociales, motores de búsqueda, sitios web, correo electrónico y publicidad en línea. 
         .row.justify-content-center.align-items-center.mb-3
           .col-12.col-lg-6.mb-lg-0.mb-3
             .bloque-texto-b.color-secundario-10.p-4
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                h4.mb-0.ps-3 Según Chaffey y Smith (2017), el marketing digital implica una planificación orientada por datos, enfocada en audiencias segmentadas, con un fuerte componente de personalización y automatización.
+                h4.mb-0.ps-3 Según Chaffey y Smith (2017), el <i>marketing</i> digital implica una planificación orientada por datos, enfocada en audiencias segmentadas, con un fuerte componente de personalización y automatización.
                 i.fas.fa-quote-right
           .col-12.col-lg-6
-            p.mb-0 Esta evolución ha transformado la comunicación comercial, permitiendo que las empresas respondan de manera más precisa y ágil a los cambios del mercado y al comportamiento del consumidor. Además, el marketing digital integra la capacidad de recolectar, interpretar y usar información en tiempo real para tomar decisiones estratégicas basadas en evidencia, lo que representa una ventaja competitiva frente a modelos de marketing tradicionales. 
+            p.mb-0 Esta evolución ha transformado la comunicación comercial, permitiendo que las empresas respondan de manera más precisa y ágil a los cambios del mercado y al comportamiento del consumidor. Además, el <i>marketing</i> digital integra la capacidad de recolectar, interpretar y usar información en tiempo real para tomar decisiones estratégicas basadas en evidencia, lo que representa una ventaja competitiva frente a modelos de <i>marketing</i> tradicionales. 
         p.mb-0 La naturaleza del medio digital también potencia la interacción y retroalimentación inmediata, fomentando una relación más cercana con el cliente. El uso de herramientas digitales bien estructuradas permite conectar la propuesta de valor de la empresa con los intereses del público de forma relevante y empática.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -30,30 +30,30 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8
-                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa colombiana Crepes & Waffles ha adoptado el marketing digital como eje estratégico de comunicación con sus clientes. A través de campañas en Instagram y TikTok, utiliza contenidos emocionales y visuales para destacar su compromiso social y ambiental, mientras promueve productos nuevos. La personalización de sus mensajes, el seguimiento de comentarios y la rapidez de interacción demuestran una estrategia digital orientada a fortalecer vínculos más que a realizar ventas inmediatas, lo que contribuye al posicionamiento de marca y fidelización de usuarios.
+                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa colombiana Crepes & Waffles ha adoptado el <i>marketing</i> digital como eje estratégico de comunicación con sus clientes. A través de campañas en Instagram y TikTok, utiliza contenidos emocionales y visuales para destacar su compromiso social y ambiental, mientras promueve productos nuevos. La personalización de sus mensajes, el seguimiento de comentarios y la rapidez de interacción demuestran una estrategia digital orientada a fortalecer vínculos más que a realizar ventas inmediatas, lo que contribuye al posicionamiento de marca y fidelización de usuarios.
               .col-12.col-lg-3.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_3.png',  class="img-fluid cita-decorada__imagen-flotante-1")
                 
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 1.
-      span Tipos de marketing digital y sus características
+      span Tipos de <i>marketing</i> digital y sus características
     .tabla-a.mb-5(data-aos="zoom-in-right")
       table
         caption 
           p <b>Fuente:</b>  Adaptado de Chaffey y Smith, 2017.
         thead
           tr
-            th.col-3.col-lg-3 Tipo de marketing digital
+            th.col-3.col-lg-3 Tipo de <i>marketing</i> digital
             th.col-5.col-lg-5 Características principales
             th.col-4.col-lg-4 Canal o herramienta común
         tbody
           tr
-            td Marketing de contenidos
+            td <i>Marketing</i> de contenidos
             td Ofrece valor educativo o emocional antes de vender
             td Blogs, infografías, videos, podcasts
           tr
-            td Email marketing
+            td Email <i>marketing</i>
             td Comunicación directa, automatizada y personalizada
             td Plataformas de mailing (mailchimp, Brevo, MailerLite, HubSpot, etc.)
           tr
@@ -61,7 +61,7 @@
             td Compra automatizada de espacios publicitarios por subasta
             td Google Ads, Meta Ads
           tr
-            td Social Media Marketing
+            td <i>Social Media Marketing</i>
             td Promueve la marca a través de redes sociales y comunidades
             td Facebook, Instagram, LinkedIn
           tr
@@ -69,7 +69,7 @@
             td Mejora visibilidad orgánica en motores de búsqueda.
             td Google, Bing, herramientas SEO.
           tr
-            td Influencer marketing
+            td Influencer <i>marketing</i>
             td Utiliza líderes de opinión digitales para ganar credibilidad.
             td YouTube, Instagram, TikTok
 
@@ -84,7 +84,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_4.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los principios fundamentales del marketing digital orientan las acciones comerciales en entornos digitales hacia una comunicación más eficiente, personalizada y medible. A diferencia de enfoques publicitarios masivos, el marketing digital opera bajo bases estratégicas como la segmentación avanzada, la experiencia del usuario, la optimización continua y la interactividad. 
+        p.mb-0 Los principios fundamentales del <i>marketing</i> digital orientan las acciones comerciales en entornos digitales hacia una comunicación más eficiente, personalizada y medible. A diferencia de enfoques publicitarios masivos, el <i>marketing</i> digital opera bajo bases estratégicas como la segmentación avanzada, la experiencia del usuario, la optimización continua y la interactividad. 
     
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-8.mb-lg-0.mb-3(data-aos="zoom-in-right")
@@ -115,27 +115,27 @@
               
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 2.
-      span Principios clave del marketing digital y su aplicación empresarial
+      span Principios clave del <i>marketing</i> digital y su aplicación empresarial
     .tabla-a.mb-5(data-aos="zoom-in-right")
       table
         caption 
           p <b>Fuente:</b> Elaboración propia con base en Kotler, 2021, y Ryan, 2020.
         thead
           tr
-            th.col-3.col-lg-3 Principios clave del marketing digital y su aplicación empresarial
+            th.col-3.col-lg-3 Principios
             th.col-5.col-lg-5 Descripción operativa
             th.col-4.col-lg-4 Aplicación empresarial
         tbody
           tr
             td.fw-bold Segmentación avanzada
-            td Dividir audiencias según intereses, comportamiento y contexto
-            td Envío de promociones por ubicación y hábitos de compra
+            td Dividir audiencias según intereses, comportamiento y contexto.
+            td Envío de promociones por ubicación y hábitos de compra.
           tr
             td.fw-bold Personalización del contenido
             td Adaptar mensajes a cada perfil de cliente.
             td Ofertas exclusivas en apps y correos electrónicos.
           tr
-            td.fw-bold Interactividad y feedback
+            td.fw-bold Interactividad y <i>feedback</i>
             td Promover comunicación bidireccional en tiempo real.
             td Atención vía WhatsApp y redes sociales.
           tr
@@ -160,7 +160,7 @@
           figure
             img(src='@/assets/curso/temas/tema_1/img_9.png')
         .bloque-texto-t__texto.col-10.mb-0.p-4
-          p.mb-0 El análisis del entorno permite identificar factores que inciden directa o indirectamente en las decisiones estratégicas del marketing comercial. En este contexto, el entorno se entiende como el conjunto de variables externas e internas que influyen en el comportamiento del mercado y en la capacidad de la empresa para generar valor desde plataformas digitales. 
+          p.mb-0 El análisis del entorno permite identificar factores que inciden directa o indirectamente en las decisiones estratégicas del <i>marketing</i> comercial. En este contexto, el entorno se entiende como el conjunto de variables externas e internas que influyen en el comportamiento del mercado y en la capacidad de la empresa para generar valor desde plataformas digitales. 
     
       .row.justify-content-center.align-items-center.mb-3
         .col-6.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")

@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Propuesta comercial',
     Description:
-      'Este componente desarrolla habilidades para estructurar propuestas comerciales digitales relevantes y persuasivas, integrando principios de marketing, análisis del cliente y capacidades empresariales. Se enfoca en comunicar soluciones estratégicas utilizando recursos digitales y técnicas de presentación profesional.',
+      'Este componente desarrolla habilidades para estructurar propuestas comerciales digitales relevantes y persuasivas, integrando principios de <i>marketing</i>, análisis del cliente y capacidades empresariales. Se enfoca en comunicar soluciones estratégicas utilizando recursos digitales y técnicas de presentación profesional.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Marketing digital',
+        titulo: '<i>Marketing</i> digital',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -83,7 +83,7 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Planes de mercadeo',
+            titulo: 'Logística',
             hash: 't_3_2',
           },
           {
@@ -121,7 +121,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Elementos que la componen',
+            titulo: 'Elementos',
             hash: 't_4_2',
           },
           {
@@ -145,7 +145,7 @@ export default {
           {
             numero: '5.2',
             titulo: 'Calidad en los documentos',
-            hash: 't_4_2',
+            hash: 't_5_2',
           },
         ],
       },
@@ -272,7 +272,7 @@ export default {
         'Estructura lógica y visual que guía la lectura de la propuesta comercial.',
     },
     {
-      termino: 'Marketing digital',
+      termino: '<i>Marketing</i> digital',
       significado:
         'Conjunto de estrategias de comercialización a través de medios y plataformas digitales.',
     },
