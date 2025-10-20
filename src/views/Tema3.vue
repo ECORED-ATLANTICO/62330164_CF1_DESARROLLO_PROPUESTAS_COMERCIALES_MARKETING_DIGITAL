@@ -55,8 +55,8 @@
           h5 Figura 2.
           span Elementos del plan de mercadeo y su impacto comercial
         figure(data-aos="zoom-in-right")
-          img(src='@/assets/curso/temas/tema_3/img_7.svg', class="img-fluid d-none d-lg-block mb-3")
-          img(src='@/assets/curso/temas/tema_3/img_8.svg', class="img-fluid d-block d-lg-none mb-3")
+          img(src='@/assets/curso/temas/tema_3/img_7.svg', class="img-fluid d-none d-lg-block mb-3", alt="La figura presenta los diferentes elementos que hacen parte del plan de mercadeo y el impacto comercial que tiene cada uno.")
+          img(src='@/assets/curso/temas/tema_3/img_8.svg', class="img-fluid d-block d-lg-none mb-3", alt="La figura presenta los diferentes elementos que hacen parte del plan de mercadeo y el impacto comercial que tiene cada uno.")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> Elaboración propia basada en Lamb, 2020.
 
@@ -318,8 +318,8 @@
           h5 Figura 3.
           span Factores clave en capacidades de producción 
         figure(data-aos="zoom-in-right")
-          img(src='@/assets/curso/temas/tema_3/img_32.svg', class="img-fluid d-none d-lg-block mb-3")
-          img(src='@/assets/curso/temas/tema_3/img_33.svg', class="img-fluid d-block d-lg-none mb-3")
+          img(src='@/assets/curso/temas/tema_3/img_32.svg', class="img-fluid d-none d-lg-block mb-3", alt="La figura muestra los  diferentes factores clave  en capacidades de producción , para transformar insumos en bienes o servicios.")
+          img(src='@/assets/curso/temas/tema_3/img_33.svg', class="img-fluid d-block d-lg-none mb-3", alt="La figura muestra los  diferentes factores clave  en capacidades de producción , para transformar insumos en bienes o servicios.")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> Elaboración propia con base en Stevenson, 2020.
       .col-12.col-lg-10

@@ -18,7 +18,7 @@
             .bloque-texto-b.color-secundario-10.p-4
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                h4.mb-0.ps-3 Según Chaffey y Smith (2017), el <i>marketing</i> digital implica una planificación orientada por datos, enfocada en audiencias segmentadas, con un fuerte componente de personalización y automatización.
+                h4.mb-0.ps-3 Según Chaffey y Smith (2017), el <em>marketing</em> digital implica una planificación orientada por datos, enfocada en audiencias segmentadas, con un fuerte componente de personalización y automatización.
                 i.fas.fa-quote-right
           .col-12.col-lg-6
             p.mb-0 Esta evolución ha transformado la comunicación comercial, permitiendo que las empresas respondan de manera más precisa y ágil a los cambios del mercado y al comportamiento del consumidor. Además, el <i>marketing</i> digital integra la capacidad de recolectar, interpretar y usar información en tiempo real para tomar decisiones estratégicas basadas en evidencia, lo que representa una ventaja competitiva frente a modelos de <i>marketing</i> tradicionales. 
@@ -51,7 +51,7 @@
           tr
             td <i>Marketing</i> de contenidos
             td Ofrece valor educativo o emocional antes de vender
-            td Blogs, infografías, videos, podcasts
+            td Blogs, infografías, videos, <i>podcasts</i>
           tr
             td Email <i>marketing</i>
             td Comunicación directa, automatizada y personalizada
@@ -69,7 +69,7 @@
             td Mejora visibilidad orgánica en motores de búsqueda.
             td Google, Bing, herramientas SEO.
           tr
-            td Influencer <i>marketing</i>
+            td <i>Influencer marketing</i>
             td Utiliza líderes de opinión digitales para ganar credibilidad.
             td YouTube, Instagram, TikTok
 
@@ -182,8 +182,8 @@
           h5 Figura 1.
           span Herramientas para el análisis del entorno digital y su aplicación
         figure(data-aos="zoom-in-right")
-          img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-none d-lg-block mb-3")
-          img(src='@/assets/curso/temas/tema_1/img_13.svg', class="img-fluid d-block d-lg-none mb-3")
+          img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-none d-lg-block mb-3", alt="La figura, relaciona cinco herramientas para el análisis del entorno digital y cual es su aplicación en el marketing.")
+          img(src='@/assets/curso/temas/tema_1/img_13.svg', class="img-fluid d-block d-lg-none mb-3", alt="La figura, relaciona cinco herramientas para el análisis del entorno digital y cual es su aplicación en el marketing.")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> Elaboración propia con base en Kotler & Keller, 2016, y documentación oficial de cada herramienta.
 </template>

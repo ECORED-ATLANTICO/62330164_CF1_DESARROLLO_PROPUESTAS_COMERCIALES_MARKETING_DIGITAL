@@ -259,8 +259,8 @@
           h5 Figura 4.
           span Integración de propuestas comerciales en el plan de mercadeo
         figure(data-aos="zoom-in-right")
-          img(src='@/assets/curso/temas/tema_4/img_25.svg', class="img-fluid d-none d-lg-block mb-3")
-          img(src='@/assets/curso/temas/tema_4/img_26.svg', class="img-fluid d-block d-lg-none mb-3")
+          img(src='@/assets/curso/temas/tema_4/img_25.svg', class="img-fluid d-none d-lg-block mb-3", alt="La figura presenta cómo es la integración de propuestas comerciales en el plan de mercadeo.")
+          img(src='@/assets/curso/temas/tema_4/img_26.svg', class="img-fluid d-block d-lg-none mb-3", alt="La figura presenta cómo es la integración de propuestas comerciales en el plan de mercadeo.")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> Elaboración propia con base en Kotler & Keller, 2016.
 </template>

@@ -47,8 +47,8 @@
       h5 Figura 5.
       span Estructura narrativa para propuestas comerciales
     figure(data-aos="zoom-in-right")
-      img(src='@/assets/curso/temas/tema_6/img_4.svg', class="img-fluid d-none d-lg-block mb-3")
-      img(src='@/assets/curso/temas/tema_6/img_5.svg', class="img-fluid d-block d-lg-none mb-3")
+      img(src='@/assets/curso/temas/tema_6/img_4.svg', class="img-fluid d-none d-lg-block mb-3", alt="La figura muestra la estructura narrativa para elaborar o presentar  propuestas comerciales.")
+      img(src='@/assets/curso/temas/tema_6/img_5.svg', class="img-fluid d-block d-lg-none mb-3", alt="La figura muestra la estructura narrativa para elaborar o presentar  propuestas comerciales.")
     figcaption(data-aos="zoom-in-right") 
       <b>Fuente:</b> Elaboración propia con base en Duarte, 2012.
 

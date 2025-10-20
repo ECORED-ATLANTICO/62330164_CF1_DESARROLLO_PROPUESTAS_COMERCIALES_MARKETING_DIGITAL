@@ -125,7 +125,7 @@
           .bloque-texto-b.color-secundario-10.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0.ps-3 Según Lemon y Verhoef (2016), el análisis efectivo implica mapear el viaje del cliente (<i>customer journey</i>), identificando los puntos de contacto más relevantes y las emociones asociadas a cada etapa.
+              h4.mb-0.ps-3 Según Lemon y Verhoef (2016), el análisis efectivo implica mapear el viaje del cliente (<em>customer journey</em>), identificando los puntos de contacto más relevantes y las emociones asociadas a cada etapa.
               i.fas.fa-quote-right
       
     
@@ -145,7 +145,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8
-                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La fintech colombiana Nequi utiliza técnicas de análisis de comportamiento para entender cómo sus usuarios gestionan su dinero desde dispositivos móviles. A través del monitoreo de hábitos financieros, uso de funcionalidades y retroalimentación de los clientes, detecta necesidades emergentes como acceso rápido a créditos o facilidad para dividir gastos en grupo. Esto le ha permitido diseñar propuestas comerciales centradas en la experiencia del usuario y mantener un alto nivel de adopción entre jóvenes adultos.
+                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La <i>fintech</i> colombiana Nequi utiliza técnicas de análisis de comportamiento para entender cómo sus usuarios gestionan su dinero desde dispositivos móviles. A través del monitoreo de hábitos financieros, uso de funcionalidades y retroalimentación de los clientes, detecta necesidades emergentes como acceso rápido a créditos o facilidad para dividir gastos en grupo. Esto le ha permitido diseñar propuestas comerciales centradas en la experiencia del usuario y mantener un alto nivel de adopción entre jóvenes adultos.
               .col-12.col-lg-3.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_16.png',  class="img-fluid cita-decorada__imagen-flotante-2")
@@ -164,7 +164,7 @@
             th.col-4.col-lg-4 Aplicación comercial en entornos digitales
         tbody
           tr
-            td Mapeo del customer journey
+            td Mapeo del <i>customer journey</i>
             td Identifica etapas y emociones del recorrido del cliente.
             td Ajuste del mensaje en cada punto de contacto.
           tr
