@@ -323,7 +323,7 @@
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> Elaboración propia con base en Stevenson, 2020.
       .col-12.col-lg-10
-        h5 Ahora bien, en lo que corresponde al impacto comercial tenemos: 
+        h5 A continuación, en lo que corresponde al impacto comercial tenemos: 
     .row.justify-content-center.align-items-center
       .col-12.col-lg-4
         figure
