@@ -30,7 +30,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8
-                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa colombiana Crepes & Waffles ha adoptado el <i>marketing</i> digital como eje estratégico de comunicación con sus clientes. A través de campañas en Instagram y TikTok, utiliza contenidos emocionales y visuales para destacar su compromiso social y ambiental, mientras promueve productos nuevos. La personalización de sus mensajes, el seguimiento de comentarios y la rapidez de interacción demuestran una estrategia digital orientada a fortalecer vínculos más que a realizar ventas inmediatas, lo que contribuye al posicionamiento de marca y fidelización de usuarios.
+                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa colombiana <b>Crepes & Waffles</b> ha adoptado el <i>marketing</i> digital como eje estratégico de comunicación con sus clientes. A través de campañas en Instagram y TikTok, utiliza contenidos emocionales y visuales para destacar su compromiso social y ambiental, mientras promueve productos nuevos. La personalización de sus mensajes, el seguimiento de comentarios y la rapidez de interacción demuestran una estrategia digital orientada a fortalecer vínculos más que a realizar ventas inmediatas, lo que contribuye al posicionamiento de marca y fidelización de usuarios.
               .col-12.col-lg-3.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_3.png',  class="img-fluid cita-decorada__imagen-flotante-1")
@@ -50,20 +50,20 @@
         tbody
           tr
             td <i>Marketing</i> de contenidos
-            td Ofrece valor educativo o emocional antes de vender
-            td Blogs, infografías, videos, <i>podcasts</i>
+            td Ofrece valor educativo o emocional antes de vender.
+            td <i>Blogs</i>, infografías, videos, <i>podcasts</i>.
           tr
-            td Email <i>marketing</i>
-            td Comunicación directa, automatizada y personalizada
-            td Plataformas de mailing (mailchimp, Brevo, MailerLite, HubSpot, etc.)
+            td <i>Email marketing</i>
+            td Comunicación directa, automatizada y personalizada.
+            td Plataformas de <i>mailing</i> (mailchimp, Brevo, MailerLite, HubSpot, etc.).
           tr
             td Publicidad programática
-            td Compra automatizada de espacios publicitarios por subasta
-            td Google Ads, Meta Ads
+            td Compra automatizada de espacios publicitarios por subasta.
+            td Google Ads, Meta Ads.
           tr
             td <i>Social Media Marketing</i>
-            td Promueve la marca a través de redes sociales y comunidades
-            td Facebook, Instagram, LinkedIn
+            td Promueve la marca a través de redes sociales y comunidades.
+            td Facebook, Instagram, LinkedIn.
           tr
             td SEO (optimización en buscadores)
             td Mejora visibilidad orgánica en motores de búsqueda.
@@ -71,7 +71,7 @@
           tr
             td <i>Influencer marketing</i>
             td Utiliza líderes de opinión digitales para ganar credibilidad.
-            td YouTube, Instagram, TikTok
+            td YouTube, Instagram, TikTok.
 
     separador
 

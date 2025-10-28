@@ -49,27 +49,27 @@
             li 
               img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
               .texto
-                span Comunicar valor
+                span <b>Comunicar valor</b>
                 span Mostrar beneficios y diferenciadores del producto o servicio. Genera interés auténtico.
             li 
               img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
               .texto
-                span Formalizar condiciones
+                span <b>Formalizar condiciones</b>
                 span Establecer términos claros de entrega, pago y garantías. Evita malentendidos o conflictos posteriores.
             li 
               img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
               .texto
-                span Persuadir estratégicamente
-                span  Usar argumentos y diseño para guiar la decisión del cliente. Aumenta la conversión comercial.
+                span <b>Persuadir estratégicamente</b>
+                span Usar argumentos y diseño para guiar la decisión del cliente. Aumenta la conversión comercial.
             li 
               img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
               .texto
-                span Fortalecer imagen profesional
+                span <b>Fortalecer imagen profesional</b>
                 span Reflejar seriedad, estructura y cuidado por el cliente. Mejora percepción de marca. 
             li 
               img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
               .texto
-                span Facilitar toma de decisiones
+                span <b>Facilitar toma de decisiones</b>
                 span Presentar de manera clara, ordenada y digitalmente accesible. Reduce fricción en el proceso de venta.
 
     separador
@@ -122,7 +122,7 @@
                 .col-12.col-lg-7
                   .h4 Portada o presentación inicial
                   p.mb-4 Debe incluir el nombre de la empresa o profesional que realiza la propuesta, el nombre del cliente, el título de la propuesta, la fecha y, en algunos casos, un eslogan o imagen representativa.
-                  p.mb-0 Su objetivo es generar una primera impresión profesional y ordenada
+                  p.mb-0 Su objetivo es generar una primera impresión profesional y ordenada.
 
           div(x="7.8%" y="34%" tooltip="Ver más" numero="")
             .tarjeta.white-card.p-4

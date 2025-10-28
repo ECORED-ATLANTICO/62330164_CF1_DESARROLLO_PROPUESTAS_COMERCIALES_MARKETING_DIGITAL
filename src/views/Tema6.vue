@@ -161,7 +161,7 @@
         .col-12.col-lg-4.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_6/img_20.png", class="img-fluid")
-        .col-8.col-lg-6(data-aos="zoom-in-right")
+        .col-12.col-lg-6(data-aos="zoom-in-right")
           p.mb-0 Esto requiere aplicar principios como jerarquía visual, equilibrio compositivo, contraste adecuado y uso intencional del color. La tipografía también es clave: fuentes legibles, tamaños proporcionales y alineación coherente contribuyen a la experiencia de lectura. Las presentaciones más efectivas evitan el exceso de texto y priorizan el uso de íconos, imágenes, gráficos y espacios en blanco para ordenar el contenido sin saturarlo. Además, deben estar optimizadas en peso (para carga rápida), ser navegables en múltiples dispositivos, y contar con mecanismos de respuesta inmediata (botones, enlaces, formularios). En términos pedagógicos y comerciales, la presentación es la “puesta en escena” de la propuesta, donde diseño y argumento se funden para convencer sin abrumar.
     
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")

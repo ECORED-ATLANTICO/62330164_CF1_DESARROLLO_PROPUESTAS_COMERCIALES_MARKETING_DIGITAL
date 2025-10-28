@@ -143,7 +143,7 @@ export default {
         {
           id: 6,
           texto:
-            'Los mapas de calor y los test A/B son técnicas para analizar el comportamiento del cliente digital.',
+            'Los mapas de calor y los <i>test A / B</i> son técnicas para analizar el comportamiento del cliente digital.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

@@ -213,7 +213,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8
-                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa de tecnología iShop Colombia ofrece pagos vía tarjetas, transferencias, cuotas sin intereses y descuento por primera compra <i>online</i>, lo que convierte sus propuestas comerciales en experiencias accesibles y atractivas para diversos segmentos.
+                p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa de tecnología <b>iShop Colombia</b> ofrece pagos vía tarjetas, transferencias, cuotas sin intereses y descuento por primera compra <i>online</i>, lo que convierte sus propuestas comerciales en experiencias accesibles y atractivas para diversos segmentos.
               .col-12.col-lg-3.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_20.png',  class="img-fluid cita-decorada__imagen-flotante-6")
@@ -240,7 +240,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-8
-                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> La marca de cosméticos L’Bel agrupa su portafolio en líneas de cuidado facial, fragancias y bienestar, lo que le permite presentar propuestas segmentadas por edad, tipo de piel y estilo de vida, facilitando la personalización del mensaje y la promoción del producto adecuado.
+                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> La marca de cosméticos <b>L’Bel</b> agrupa su portafolio en líneas de cuidado facial, fragancias y bienestar, lo que le permite presentar propuestas segmentadas por edad, tipo de piel y estilo de vida, facilitando la personalización del mensaje y la promoción del producto adecuado.
                 .col-12.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_3/img_24.png',  class="img-fluid cita-decorada__imagen-flotante-7")
