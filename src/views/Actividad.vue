@@ -281,7 +281,7 @@ export default {
         {
           id: 12,
           texto:
-            'El portafolio empresarial debe ser coherente con el tipo de cliente y canal de distribución.',
+            'La capacidad de producción no influye en la confiabilidad de una propuesta comercial.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

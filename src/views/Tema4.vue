@@ -65,7 +65,7 @@
               img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
               .texto
                 span <b>Fortalecer imagen profesional</b>
-                span Reflejar seriedad, estructura y cuidado por el cliente. Mejora percepción de marca. 
+                span Reflejar seriedad, estructura y cuidado por el cliente. Mejora percepción de la marca. 
             li 
               img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
               .texto
@@ -106,8 +106,11 @@
                 figure
                   img(src='@/assets/curso/temas/tema_4/img_9.png',  class="img-fluid cita-decorada__imagen-flotante-8")
 
+   
+
     .row.justify-content-center.align-items-center
       .col-12.col-lg-10
+        h5.mb Elementos fundamentales de una propuesta comercial
         ImagenInfograficaB.color-primario
           template(v-slot:imagen)
             figure

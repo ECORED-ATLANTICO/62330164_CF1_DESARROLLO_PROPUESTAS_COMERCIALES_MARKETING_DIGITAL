@@ -128,19 +128,19 @@
                 .col-12.mb-3
                   .tarjeta--16
                 .tarjeta--slider__title.mb-3.fw-bold Tono adecuado
-                .tarjeta--slider__content.mb-4 formal, cercano o técnico según receptor. Refuerza identidad comunicacional.
+                .tarjeta--slider__content.mb-4 Formal, cercano o técnico según receptor. Refuerza identidad comunicacional.
             .tarjeta--fondo__slider-4.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--17
                 .tarjeta--slider__title.mb-3.fw-bold Uso de verbos activos
-                .tarjeta--slider__content.mb-4 promueve acción y dinamismo en el mensaje. Facilita el llamado a la acción.
+                .tarjeta--slider__content.mb-4 Promueve acción y dinamismo en el mensaje. Facilita el llamado a la acción.
             .tarjeta--fondo__slider-4.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--18
                 .tarjeta--slider__title.mb-3.fw-bold Cohesión textual
-                .tarjeta--slider__content.mb-4 conectores, progresión lógica entre ideas. Mejora fluidez y profesionalismo.
+                .tarjeta--slider__content.mb-4 Conectores, progresión lógica entre ideas. Mejora fluidez y profesionalismo.
 
     separador
 

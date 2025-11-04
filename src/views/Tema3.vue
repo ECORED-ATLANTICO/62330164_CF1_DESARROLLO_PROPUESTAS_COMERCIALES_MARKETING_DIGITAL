@@ -13,7 +13,7 @@
           img(src="@/assets/curso/temas/tema_3/img_1.png", class="img-fluid")
       .col-12.col-lg-7(data-aos="zoom-in-right")
         p.mb-3 Las capacidades empresariales son el conjunto de recursos, procesos y condiciones que le permiten a una organización operar de manera eficiente, responder a la demanda del mercado y cumplir con lo que ofrece en sus propuestas comerciales. 
-        p.mb-0 Entenderlas no solo implica reconocer lo que una empresa puede hacer, sino cómo, cuándo y con qué estándares lo ejecuta. Abordaremos los componentes esenciales que configuran dichas capacidades como planes de mercadeo, logística, inventarios, condiciones comerciales, gestión de pagos, portafolio y producción, y su relación directa con la viabilidad, credibilidad y pertinencia de las ofertas en el entorno digital. Al incorporar estos aspectos en el análisis y diseño de propuestas, se promueve una visión más estratégica y responsable del proceso comercial, fortaleciendo la experiencia del cliente y la sostenibilidad del negocio.
+        p.mb-0 Entenderlas no solo implica reconocer lo que una empresa puede hacer, sino cómo, cuándo y con qué estándares lo ejecuta. Abordaremos los componentes esenciales que configuran dichas capacidades, como planes de mercadeo, logística, inventarios, condiciones comerciales, gestión de pagos, portafolio y producción, y su relación directa con la viabilidad, credibilidad y pertinencia de las ofertas en el entorno digital. Al incorporar estos aspectos en el análisis y diseño de propuestas, se promueve una visión más estratégica y responsable del proceso comercial, fortaleciendo la experiencia del cliente y la sostenibilidad del negocio.
 
     separador
 
@@ -44,7 +44,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-8
-                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa <b>Alquería</b>, del sector lácteo en Colombia, estructura sus planes de mercadeo cada año con base en tendencias de consumo y retroalimentación de clientes. A partir de este documento define propuestas comerciales para distribuidores y canales minoristas, adaptando productos, promociones y campañas a nichos específicos como hogares saludables o estudiantes universitarios.
+                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> La empresa <b>Alquería</b>, del sector lácteo en Colombia, estructura sus planes de mercadeo cada año con base en tendencias de consumo y retroalimentación de clientes. A partir de este documento, define propuestas comerciales para distribuidores y canales minoristas, adaptando productos, promociones y campañas a nichos específicos como hogares saludables o estudiantes universitarios.
                 .col-12.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_3/img_6.png',  class="img-fluid cita-decorada__imagen-flotante-3")

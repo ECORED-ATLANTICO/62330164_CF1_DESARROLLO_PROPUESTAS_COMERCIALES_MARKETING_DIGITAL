@@ -13,7 +13,7 @@
           .col-12.col-lg-2.d-none.d-lg-block.mb-0
             figure
               img(src="@/assets/curso/sintesis/img_2.png", class="img-fluid")  
-        p.mb-0 La formación integra el uso de recursos digitales para fortalecer la presentación de la propuesta, promover el valor de la oferta y facilitar la toma de decisiones del cliente. Se enfatiza el pensamiento estratégico, la comunicación empática y la redacción profesional como competencias clave en contextos de negociación digital
+        p.mb-0 La formación integra el uso de recursos digitales para fortalecer la presentación de la propuesta, promover el valor de la oferta y facilitar la toma de decisiones del cliente. Se enfatiza el pensamiento estratégico, la comunicación empática y la redacción profesional como competencias clave en contextos de negociación digital.
     
     
     .row.justify-content-center
