@@ -65,7 +65,7 @@
               img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
               .texto
                 span <b>Fortalecer imagen profesional</b>
-                span Reflejar seriedad, estructura y cuidado por el cliente. Mejora percepción de la marca. 
+                span Reflejar seriedad, estructura y cuidado por el cliente. Mejora la percepción de la marca. 
             li 
               img(src="@/assets/curso/temas/tema_4/img_6.svg", class="img-fluid" )
               .texto
