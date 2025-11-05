@@ -44,7 +44,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Muy bien, el <em>marketing</em> digital abarca mucho más: incluye segmentación, experiencia de usuario, automatización, analítica y relaciones interactivas.',
+            'Muy bien, el 𝘮𝘢𝘳𝘬𝘦𝘵𝘪𝘯𝘨 digital abarca mucho más: incluye segmentación, experiencia de usuario, automatización, analítica y relaciones interactivas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
