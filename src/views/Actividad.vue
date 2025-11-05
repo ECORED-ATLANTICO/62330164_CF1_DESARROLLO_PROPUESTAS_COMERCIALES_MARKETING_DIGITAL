@@ -51,19 +51,19 @@ export default {
         {
           id: 2,
           texto:
-            'Uno de los principios fundamentales del <i>marketing</i> digital es la personalización del contenido.',
+            'Uno de los principios fundamentales del <em>marketing</em> digital es la personalización del contenido.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
