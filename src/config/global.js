@@ -250,9 +250,10 @@ export default {
     {
       tema: 'Recursos digitales',
       referencia:
-        'FlipHTML5. (s.f.). <i>10 plantillas de portafolios profesionales gratis para descargar y editar</i>. FlipHTML5 Blog. Recuperado en julio de 2025, de ',
+        'FlipHTML5. (s.f.). <i>10 plantillas de portafolios profesionales gratis para descargar y editar</i>. FlipHTML5 Blog.',
       tipo: 'Recursos digitales',
-      link: 'https://fliphtml5.com/',
+      link:
+        'https://fliphtml5.com/learning-center/es/10-professional-portfolio-templates-free-to-download-edit-pdf-word-ppt-and-ai/',
     },
   ],
   glosario: [
